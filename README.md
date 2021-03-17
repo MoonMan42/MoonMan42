@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MoonMan42
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Music apps and other 
+- 💞️ I’m looking to collaborate on Music apps, mobiel apps, and databases 
 - 📫 Reach me at: 
   - discord: StackOfPancakes#9037
